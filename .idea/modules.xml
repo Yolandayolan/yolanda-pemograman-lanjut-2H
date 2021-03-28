@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MoreOnClasses/MoreOnClasses.iml" filepath="$PROJECT_DIR$/MoreOnClasses/MoreOnClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/yolanda-pemograman-lanjut-2H.iml" filepath="$PROJECT_DIR$/.idea/yolanda-pemograman-lanjut-2H.iml" />
     </modules>
   </component>
