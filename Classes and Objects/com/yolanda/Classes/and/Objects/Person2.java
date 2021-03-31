@@ -1,7 +1,11 @@
 package com.yolanda.Classes.and.Objects;
 
-public class minFunc {
+public class Person2 {
     public static void main(String[] args) {
+
+        int age;
+        double height;
+        String name;
 
     }
 }
